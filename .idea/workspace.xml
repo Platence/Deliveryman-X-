@@ -18,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="@Platence" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1te9awSI8eSSosj3VkrSVceyVLr" />
@@ -90,6 +95,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="08.06.2021 create" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Notifications" timestamp="1623142448470">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Notifications/0.0.1920.1040/-1920.0.1920.1080@0.0.1920.1040" timestamp="1623142448470" />
     <state x="552" y="178" key="#Project_Structure" timestamp="1623124896844">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -106,10 +115,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="689" y="303" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/-1920.0.1920.1080@0.0.1920.1040" timestamp="1623120067783" />
-    <state x="614" y="113" key="CommitChangelistDialog2" timestamp="1623124984698">
+    <state x="614" y="113" key="CommitChangelistDialog2" timestamp="1623142434547">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="614" y="113" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1080@0.0.1920.1040" timestamp="1623124984698" />
+    <state x="614" y="113" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1080@0.0.1920.1040" timestamp="1623142434547" />
     <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1623125016070">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
