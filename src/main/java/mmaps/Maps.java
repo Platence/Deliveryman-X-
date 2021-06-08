@@ -1,4 +1,4 @@
-package infoPackage.maps;
+package mmaps;
 
 import deliverX.Driver;
 
