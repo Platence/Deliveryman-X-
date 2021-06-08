@@ -1,4 +1,4 @@
-package infoPackege.maps;
+package infoPackage.maps;
 
 import deliverX.Driver;
 

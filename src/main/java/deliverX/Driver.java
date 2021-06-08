@@ -2,7 +2,7 @@ package deliverX;
 
 import WareHouseCargo.Cargo;
 import enums.Status;
-import infoPackege.maps.Maps;
+import infoPackage.maps.Maps;
 
 public class Driver implements Runnable{
 
